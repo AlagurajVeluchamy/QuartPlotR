@@ -8,19 +8,19 @@
 ## 2. Installation
 
 ```
-install.packages('RawHummus')
+install.packages('QuartPlotR')
 ```
 
 ## 3. Usage
 
-1. **To run RawHummus locally**
+1. **To run QuartPlotR locally**
 
 This option is particularly **recommended** when you have a large number of QC samples to test.
 
 Run the following script, the Web App will pop up and you can then enjoy using QuartPlotR
 
 ```
-RawHummus::runGui()
+QuartPlotR::runGui()
 ```
 
 2. **Use the website**
