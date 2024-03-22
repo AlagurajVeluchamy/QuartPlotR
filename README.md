@@ -3,7 +3,7 @@
 ## 1. Introduction
 
 
-## QuartPlotR: A quarternary phase diagram tool; application on stroke, cancer genomics and metagenomics data
+## QuartPlotR: A quarternary phase diagram tool
 
 ## 2. Installation
 
